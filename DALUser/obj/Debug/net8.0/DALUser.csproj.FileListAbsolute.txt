@@ -1,0 +1,14 @@
+C:\Users\Accenadmin\source\repos\UserHO\DALUser\bin\Debug\net8.0\DALUser.deps.json
+C:\Users\Accenadmin\source\repos\UserHO\DALUser\bin\Debug\net8.0\DALUser.runtimeconfig.json
+C:\Users\Accenadmin\source\repos\UserHO\DALUser\bin\Debug\net8.0\DALUser.dll
+C:\Users\Accenadmin\source\repos\UserHO\DALUser\bin\Debug\net8.0\DALUser.pdb
+C:\Users\Accenadmin\source\repos\UserHO\DALUser\obj\Debug\net8.0\DALUser.csproj.AssemblyReference.cache
+C:\Users\Accenadmin\source\repos\UserHO\DALUser\obj\Debug\net8.0\DALUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Accenadmin\source\repos\UserHO\DALUser\obj\Debug\net8.0\DALUser.AssemblyInfoInputs.cache
+C:\Users\Accenadmin\source\repos\UserHO\DALUser\obj\Debug\net8.0\DALUser.AssemblyInfo.cs
+C:\Users\Accenadmin\source\repos\UserHO\DALUser\obj\Debug\net8.0\DALUser.csproj.CoreCompileInputs.cache
+C:\Users\Accenadmin\source\repos\UserHO\DALUser\obj\Debug\net8.0\DALUser.dll
+C:\Users\Accenadmin\source\repos\UserHO\DALUser\obj\Debug\net8.0\refint\DALUser.dll
+C:\Users\Accenadmin\source\repos\UserHO\DALUser\obj\Debug\net8.0\DALUser.pdb
+C:\Users\Accenadmin\source\repos\UserHO\DALUser\obj\Debug\net8.0\DALUser.genruntimeconfig.cache
+C:\Users\Accenadmin\source\repos\UserHO\DALUser\obj\Debug\net8.0\ref\DALUser.dll
